@@ -1,0 +1,23 @@
+{
+  "name": "course-code-snnipets",
+  "version": "1.0.0",
+  "description": "some course snnipets from courses",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./ -a localhost -p 9100",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-vinicius/course-code-snnipets.git"
+  },
+  "author": "Bruno Vinícius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruno-vinicius/course-code-snnipets/issues"
+  },
+  "homepage": "https://github.com/bruno-vinicius/course-code-snnipets#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
